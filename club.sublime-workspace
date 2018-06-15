@@ -1,0 +1,499 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"column\tflex-direction"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"com",
+				"company.html"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text-tr",
+				"text-transform"
+			],
+			[
+				"i",
+				"img/"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"n",
+				"none\tdisplay"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"d",
+				"downloads"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"down",
+				"downloads.png\tw:30 h:30"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"ne",
+				"news.html\t(price.html)"
+			],
+			[
+				"sect",
+				"section_price-block"
+			],
+			[
+				"se",
+				"section_price"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"pro",
+				"products-card.html"
+			],
+			[
+				"r",
+				"rotate()\ttransform"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"in",
+				"infinite"
+			],
+			[
+				"anim",
+				"animation-name\tproperty"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"p",
+				"products_foto.png\tw:420 h:270"
+			],
+			[
+				"ca",
+				"category_products-One-block"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"animation",
+				"animation-delay\tproperty"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"con",
+				"contact_call.png\tw:1920 h:464"
+			],
+			[
+				"news",
+				"news_section-block"
+			],
+			[
+				"ali",
+				"align-items"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/PROJECTS/1.ARISTOTEL/style/style.css",
+		"/E/PROJECTS/3.BELTIZ/src/js/custom.js",
+		"/E/PROJECTS/3.BELTIZ/src/404.html",
+		"/E/PROJECTS/3.BELTIZ/src/contacts.html",
+		"/E/PROJECTS/3.BELTIZ/src/company.html",
+		"/E/PROJECTS/3.BELTIZ/src/news.html",
+		"/E/PROJECTS/3.BELTIZ/src/price.html",
+		"/E/PROJECTS/3.BELTIZ/src/products-card.html",
+		"/E/PROJECTS/3.BELTIZ/src/index.html",
+		"/E/PROJECTS/3.BELTIZ/src/products.html",
+		"/E/PROJECTS/3.BELTIZ/src/css/style.css",
+		"/E/PROJECTS/3.BELTIZ/src/sertificat.html",
+		"/E/PROJECTS/3.BELTIZ/src/new.html",
+		"/E/PROJECTS/3.BELTIZ/src/product.html",
+		"/E/PROJECTS/3.BELTIZ/node_modules/bower/lib/node_modules/bower-registry-client/node_modules/har-validator/src/async.js",
+		"/E/PROJECTS/retest/src/index.html",
+		"/E/PROJECTS/retest/src/css/style.css",
+		"/C/Users/alexe/AppData/Roaming/Sublime Text 3/Packages/auto-save/README.md",
+		"/E/PROJECTS/3.BELTIZ/src/css/materialize.css",
+		"/E/PROJECTS/3.BELTIZ/package.json",
+		"/E/ARCHIVES/project/gulpfile.js",
+		"/E/PROJECTS/TEST_PROJECTS/gulpfile.js",
+		"/E/PROJECTS/TEST_PROJECTS/package.json",
+		"/E/PROJECTS/корзина/3.BELTIZ/gulpfile.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"owl-nav",
+			"tabs-menu-scroll",
+			"transi",
+			"%;\n",
+			"category_pro",
+			".\n",
+			"category_products",
+			"coordinate",
+			"transform3d",
+			"transform",
+			";\n",
+			"active",
+			"hover",
+			"category",
+			"overf",
+			"active",
+			".header_nav_mobile",
+			"close",
+			".about_section-blockText h4",
+			".news_section-page-header h6",
+			".news_section_PageBlock",
+			"after",
+			">\n",
+			"});\n",
+			"display",
+			"keyframes",
+			"424242",
+			";\n",
+			"','",
+			"flex",
+			">\n",
+			"slide1",
+			";\n",
+			"mymove",
+			"move",
+			"slidemove",
+			"red",
+			"swit",
+			";\n",
+			"center",
+			"btn",
+			"иет",
+			";\n",
+			"16px",
+			"margin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "club.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
